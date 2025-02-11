@@ -2,14 +2,14 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public abstract class Veh√≠culo {
+public abstract class VehÌ≠culo {
 
     protected String marca;
     protected String modelo;
     protected int anio;
     protected double impuesto;
 
-    protected Veh√≠culo(String marca, String modelo, int anio) {
+    protected VehÌculo(String marca, String modelo, int anio) {
         this.marca = marca;
         this.modelo = modelo;
         this.anio = anio;
@@ -26,7 +26,7 @@ public abstract class Veh√≠culo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        Veh√≠culo registro[] = new Veh√≠culo[0];
+        VehÌ≠culo registro[] = new VehÌ≠culo[0];
         int pos = 0;
         int op = 0;
         int opp = 0;

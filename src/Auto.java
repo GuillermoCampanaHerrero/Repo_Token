@@ -1,5 +1,5 @@
 
-public class Auto extends VehÃ­culo {
+public class Auto extends Vehí­culo {
 
     int numPuertas;
 

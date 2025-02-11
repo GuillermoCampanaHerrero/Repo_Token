@@ -1,5 +1,5 @@
 
-public class Camion extends VehÃ­culo {
+public class Camion extends Vehí­culo {
 
     int capacidadCarga;
 
